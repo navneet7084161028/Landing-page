@@ -1,0 +1,76 @@
+	.navbar{
+  		height: 90px;
+  	}
+
+    .navbar-brand{
+  		 padding: 0 15px;
+  		height: 80px;
+  		line-height: 80px;
+  		font-size: 35px;
+  		margin-left: 7%;
+  	}
+
+  	.navbar-toggle
+    {
+  		 margin-top: 23px;
+    padding: 9px 10px !important;
+  	}
+
+  	.bod1{
+  		background-color: #8be6f58f;
+      height: inherit;
+    }
+
+    .bimg{
+      background-image: url(f1.jpg);
+      background-repeat: no-repeat;
+      height: 600px;
+      width: auto;
+      background-size: cover;
+    }
+    .d{
+      margin-top: 150px;
+    }
+    .d1{
+      font-size: 37px;
+    }
+    .a1{
+      background-image: url(av.jpeg);
+      height: 270px;
+      width: 310px;
+      border-radius: 90px 200px 200px 90px;
+      top: 14%;
+      left: 5%;
+      position: relative;
+
+    }
+    .a2{
+      font-size: 39px;
+      color: #008B8B;
+    }
+    .a3{
+      font-size: 13px;
+      color: black;
+    }
+    .a4{
+      font-size: 13px;
+      color: black;
+    }
+    .a5{
+       font-size: 13px;
+       color: black;
+    }
+    .b1{
+      background-size: cover;
+      width: 350px;
+      height: 280px;
+      border-radius: 90px 220px 220px 90px;
+      position: relative;
+      margin-top: 8%;
+    }
+    .p1{
+      float: left;
+      color: white;
+      font-size: 25px;
+      top: 20%;
+    }
